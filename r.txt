@@ -1,0 +1,612 @@
+Query: find ratio 1960 1969
+
+The female-to-male earnings ratio for 1960-1969:
+	1967: 57.7%
+	1968: 58.1%
+	1969: 60.4%
+	1970: 59.3%
+	1971: 59.5%
+	1972: 57.8%
+	1973: 56.6%
+	1974: 58.7%
+	1975: 58.8%
+	1976: 60.1%
+Query: find max total 10
+
+Top 10 occupations in 1999 for total workers:
+	Secretaries and administrative assistants: 2,409,830
+	First-line supervisors/managers of retail sales workers: 2,167,180
+	Elementary and middle school teachers: 2,143,750
+	Driver/sales workers and truck drivers: 2,130,980
+	Managers, all other: 1,607,220
+	Retail salespersons: 1,536,280
+	Registered nurses: 1,384,630
+	First-line supervisors/managers of office and administrative support workers: 1,335,860
+	Accountants and auditors: 1,327,040
+	Customer service representatives: 1,248,770
+Query: find max male 10
+
+Top 10 occupations in 1999 for male workers:
+	First-line supervisors/managers of production and operating workers: 883,320
+	Sales representatives, wholesale and manufacturing: 861,120
+	Chief executives: 797,790
+	Carpenters: 791,770
+	Laborers and freight, stock, and material movers, hand: 791,050
+	Janitors and building cleaners: 767,090
+	Automotive service technicians and mechanics: 726,470
+	First-line supervisors/managers of construction trades and extraction workers: 703,630
+	Production workers, all other: 615,790
+	General and operations managers: 595,040
+Query: find max female 10
+
+Top 10 occupations in 1999 for female workers:
+	Bookkeeping, accounting, and auditing clerks: 964,160
+	Nursing, psychiatric, and home health aides: 730,750
+	Office clerks, general: 625,950
+	Cashiers: 564,000
+	Receptionists and information clerks: 446,440
+	Child care workers: 443,130
+	Human resources, training, and labor relations specialists: 433,060
+	Financial managers: 412,080
+	Maids and housekeeping cleaners: 365,710
+	Social workers: 349,960
+Query: find ratio 2000 2009
+
+The female-to-male earnings ratio for 2000-2009:
+	2007: 77.8%
+	2008: 77.0%
+	2009: 76.9%
+	2010: 76.9%
+	2011: 77.0%
+	2012: 76.5%
+	2013: 77.5%
+	2014: 78.6%
+	2015: 79.5%
+	2016: 80.4%
+Query: find occupation 11-3031
+
+The occupation with SOC code 11-3031:
+	Financial managers: YRFT: 801,160, Female: 412,080, Male: 389,080
+Query: find occupation 13-1199
+
+The occupation with SOC code 13-1199:
+	Other business operations specialists: YRFT: 169,810, Female: 94,100, Male: 75,710
+Query: find occupation 15-1099
+
+The occupation with SOC code 15-1099:
+	Computer scientists and systems analysts: YRFT: 537,310, Female: 174,240, Male: 363,060
+Query: find occupation 25-9099
+
+The occupation with SOC code 25-9099:
+	Other education, training, and library workers: YRFT: 32,460, Female: 19,510, Male: 12,940
+Query: find occupation 31-9093
+
+The occupation with SOC code 31-9093:
+	Medical assistants and other healthcare support occupations: YRFT: 307,590, Female: 271,460, Male: 36,140
+Query: find occupation 51-3011
+
+The occupation with SOC code 51-3011:
+	Bakers: YRFT: 91,090, Female: 39,210, Male: 51,880
+Query: range occupation "Avionics" "Drywall"
+
+The occupations in the range "Avionics" to "Drywall":
+	Avionics technicians: YRFT: 12,110, Female: 1,230, Male: 10,880
+	Baggage porters, bellhops, and concierges: YRFT: 29,990, Female: 4,450, Male: 25,540
+	Bailiffs, correctional officers, and jailers: YRFT: 312,730, Female: 75,470, Male: 237,260
+	Bakers: YRFT: 91,090, Female: 39,210, Male: 51,880
+	Barbers: YRFT: 48,680, Female: 9,350, Male: 39,330
+	Bartenders: YRFT: 136,840, Female: 64,800, Male: 72,040
+	Bill and account collectors: YRFT: 140,250, Female: 99,630, Male: 40,610
+	Billing and posting clerks and machine operators: YRFT: 262,290, Female: 231,510, Male: 30,780
+	Biological scientists: YRFT: 62,810, Female: 25,030, Male: 37,780
+	Biological technicians: YRFT: 12,030, Female: 5,760, Male: 6,280
+	Biomedical engineers: YRFT: 7,760, Female: 760, Male: 6,990
+	Boilermakers: YRFT: 11,250, Female: 350, Male: 10,890
+	Bookbinders and bindery workers: YRFT: 32,910, Female: 15,290, Male: 17,620
+	Bookkeeping, accounting, and auditing clerks: YRFT: 1,080,270, Female: 964,160, Male: 116,110
+	Brickmasons, blockmasons, and stonemasons: YRFT: 101,810, Female: 1,040, Male: 100,770
+	Bridge and lock tenders: YRFT: 3,740, Female: 480, Male: 3,260
+	Broadcast and sound engineering technicians and radio operators: YRFT: 56,560, Female: 6,860, Male: 49,700
+	Brokerage clerks: YRFT: 7,470, Female: 4,800, Male: 2,680
+	Budget analysts: YRFT: 39,460, Female: 24,550, Male: 14,910
+	Bus and truck mechanics and diesel engine specialists: YRFT: 244,690, Female: 2,360, Male: 242,330
+	Bus drivers: YRFT: 186,740, Female: 64,610, Male: 122,130
+	Butchers and other meat, poultry, and fish processing workers: YRFT: 180,200, Female: 34,960, Male: 145,240
+	Cabinetmakers and bench carpenters: YRFT: 59,600, Female: 3,710, Male: 55,890
+	Cargo and freight agents: YRFT: 14,310, Female: 3,650, Male: 10,660
+	Carpenters: YRFT: 803,840, Female: 12,070, Male: 791,770
+	Carpet, floor, and tile installers and finishers: YRFT: 129,130, Female: 2,690, Male: 126,440
+	Cashiers: YRFT: 770,520, Female: 564,000, Male: 206,510
+	Cement masons, concrete finishers, and terrazzo workers: YRFT: 43,820, Female: 480, Male: 43,340
+	Cementing and gluing machine operators and tenders: YRFT: 12,720, Female: 5,430, Male: 7,280
+	Chefs and head cooks: YRFT: 157,770, Female: 24,670, Male: 133,110
+	Chemical engineers: YRFT: 55,530, Female: 7,240, Male: 48,290
+	Chemical processing machine setters, operators, and tenders: YRFT: 54,930, Female: 6,490, Male: 48,440
+	Chemical technicians: YRFT: 69,320, Female: 20,920, Male: 48,400
+	Chemists and materials scientists: YRFT: 87,230, Female: 26,550, Male: 60,680
+	Chief executives: YRFT: 965,440, Female: 167,650, Male: 797,790
+	Child care workers: YRFT: 464,100, Female: 443,130, Male: 20,970
+	Chiropractors: YRFT: 32,670, Female: 5,210, Male: 27,460
+	Civil engineers: YRFT: 229,980, Female: 21,110, Male: 208,870
+	Claims adjusters, appraisers, examiners, and investigators: YRFT: 240,760, Female: 151,990, Male: 88,770
+	Cleaners of vehicles and equipment: YRFT: 144,590, Female: 23,630, Male: 120,960
+	Cleaning, washing, and metal pickling equipment operators and tenders: YRFT: 9,500, Female: 2,630, Male: 6,870
+	Clergy: YRFT: 285,580, Female: 31,540, Male: 254,040
+	Clinical laboratory technologists and technicians: YRFT: 196,850, Female: 140,970, Male: 55,880
+	Coin, vending, and amusement machine servicers and repairers: YRFT: 36,830, Female: 5,280, Male: 31,560
+	Combined food preparation and serving workers, including fast food: YRFT: 84,530, Female: 61,250, Male: 23,270
+	Commercial divers: YRFT: 1,590, Female: 50, Male: 1,540
+	Communications equipment operators, all other: YRFT: 8,640, Female: 4,590, Male: 4,050
+	Compliance officers, except agriculture, construction, health and safety, and transportation: YRFT: 80,880, Female: 36,500, Male: 44,380
+	Computer and information systems managers: YRFT: 281,520, Female: 79,950, Male: 201,570
+	Computer control programmers and operators: YRFT: 35,630, Female: 4,000, Male: 31,640
+	Computer hardware engineers: YRFT: 51,120, Female: 6,880, Male: 44,250
+	Computer operators: YRFT: 183,700, Female: 91,700, Male: 92,000
+	Computer programmers: YRFT: 505,590, Female: 131,730, Male: 373,870
+	Computer scientists and systems analysts: YRFT: 537,310, Female: 174,240, Male: 363,060
+	Computer software engineers: YRFT: 580,590, Female: 134,350, Male: 446,240
+	Computer support specialists: YRFT: 294,340, Female: 107,120, Male: 187,220
+	Computer, automated teller, and office machine repairers: YRFT: 194,020, Female: 24,860, Male: 169,160
+	Conservation scientists and foresters: YRFT: 23,900, Female: 3,050, Male: 20,860
+	Construction and building inspectors: YRFT: 60,410, Female: 5,440, Male: 54,970
+	Construction laborers: YRFT: 578,650, Female: 15,800, Male: 562,850
+	Construction managers: YRFT: 514,560, Female: 31,390, Male: 483,180
+	Control and valve installers and repairers: YRFT: 17,630, Female: 790, Male: 16,840
+	Conveyor operators and tenders: YRFT: 3,910, Female: 620, Male: 3,290
+	Cooks: YRFT: 646,890, Female: 266,370, Male: 380,520
+	Cooling and freezing equipment operators and tenders: YRFT: 2,540, Female: 270, Male: 2,270
+	Correspondence clerks: YRFT: 5,510, Female: 4,570, Male: 940
+	Cost estimators: YRFT: 87,740, Female: 9,800, Male: 77,950
+	Counselors: YRFT: 309,310, Female: 192,610, Male: 116,700
+	Counter and rental clerks: YRFT: 55,260, Female: 30,070, Male: 25,190
+	Counter attendants, cafeteria, food concession, and coffee shop: YRFT: 23,740, Female: 15,990, Male: 7,750
+	Couriers and messengers: YRFT: 103,970, Female: 17,720, Male: 86,260
+	Court, municipal, and license clerks: YRFT: 56,420, Female: 45,180, Male: 11,250
+	Crane and Tower Operators: YRFT: 55,450, Female: 1,650, Male: 53,790
+	Credit analysts: YRFT: 24,870, Female: 15,000, Male: 9,870
+	Credit authorizers, checkers, and clerks: YRFT: 38,210, Female: 29,280, Male: 8,930
+	Crossing guards: YRFT: 5,490, Female: 2,810, Male: 2,680
+	Crushing, grinding, polishing, mixing, and blending workers: YRFT: 79,140, Female: 9,860, Male: 69,280
+	Customer service representatives: YRFT: 1,248,770, Female: 865,190, Male: 383,590
+	Cutting workers: YRFT: 66,390, Female: 14,770, Male: 51,610
+	Cutting, punching, and press machine setters, operators, and tenders, metal and plastic: YRFT: 100,100, Female: 26,330, Male: 73,770
+	Dancers and choreographers: YRFT: 5,960, Female: 4,960, Male: 1,010
+	Data entry keyers: YRFT: 325,930, Female: 271,630, Male: 54,310
+	Database administrators: YRFT: 62,200, Female: 24,710, Male: 37,490
+	Dental assistants: YRFT: 100,140, Female: 97,430, Male: 2,710
+	Dental hygienists: YRFT: 37,400, Female: 35,930, Male: 1,470
+	Dentists: YRFT: 87,100, Female: 12,710, Male: 74,390
+	Derrick, rotary drill, and service unit operators, oil, gas, and mining: YRFT: 6,850, Female: 120, Male: 6,730
+	Designers: YRFT: 459,070, Female: 219,540, Male: 239,540
+	Desktop publishers: YRFT: 9,950, Female: 6,180, Male: 3,770
+	Detectives and criminal investigators: YRFT: 101,350, Female: 20,530, Male: 80,820
+	Diagnostic related technologists and technicians: YRFT: 155,210, Female: 103,770, Male: 51,430
+	Dietitians and nutritionists: YRFT: 45,910, Female: 40,710, Male: 5,200
+	Dining room and cafeteria attendants and bartender helpers: YRFT: 53,100, Female: 20,490, Male: 32,610
+	Directors, religious activities and education: YRFT: 28,730, Female: 15,380, Male: 13,350
+	Dishwashers: YRFT: 59,420, Female: 11,730, Male: 47,680
+	Dispatchers: YRFT: 186,580, Female: 94,240, Male: 92,340
+	Door-to-door sales workers, news and street vendors, and related workers: YRFT: 56,450, Female: 22,310, Male: 34,140
+	Drafters: YRFT: 165,090, Female: 29,150, Male: 135,930
+	Dredge, excavating, and loading machine operators: YRFT: 38,970, Female: 610, Male: 38,360
+	Drilling and boring machine tool setters, operators, and tenders, metal and plastic: YRFT: 7,400, Female: 1,530, Male: 5,880
+	Driver/sales workers and truck drivers: YRFT: 2,130,980, Female: 89,580, Male: 2,041,390
+Query: range occupation "Crane" "Shuttle"
+
+The occupations in the range "Crane" to "Shuttle":
+	Crane and Tower Operators: YRFT: 55,450, Female: 1,650, Male: 53,790
+	Credit analysts: YRFT: 24,870, Female: 15,000, Male: 9,870
+	Credit authorizers, checkers, and clerks: YRFT: 38,210, Female: 29,280, Male: 8,930
+	Crossing guards: YRFT: 5,490, Female: 2,810, Male: 2,680
+	Crushing, grinding, polishing, mixing, and blending workers: YRFT: 79,140, Female: 9,860, Male: 69,280
+	Customer service representatives: YRFT: 1,248,770, Female: 865,190, Male: 383,590
+	Cutting workers: YRFT: 66,390, Female: 14,770, Male: 51,610
+	Cutting, punching, and press machine setters, operators, and tenders, metal and plastic: YRFT: 100,100, Female: 26,330, Male: 73,770
+	Dancers and choreographers: YRFT: 5,960, Female: 4,960, Male: 1,010
+	Data entry keyers: YRFT: 325,930, Female: 271,630, Male: 54,310
+	Database administrators: YRFT: 62,200, Female: 24,710, Male: 37,490
+	Dental assistants: YRFT: 100,140, Female: 97,430, Male: 2,710
+	Dental hygienists: YRFT: 37,400, Female: 35,930, Male: 1,470
+	Dentists: YRFT: 87,100, Female: 12,710, Male: 74,390
+	Derrick, rotary drill, and service unit operators, oil, gas, and mining: YRFT: 6,850, Female: 120, Male: 6,730
+	Designers: YRFT: 459,070, Female: 219,540, Male: 239,540
+	Desktop publishers: YRFT: 9,950, Female: 6,180, Male: 3,770
+	Detectives and criminal investigators: YRFT: 101,350, Female: 20,530, Male: 80,820
+	Diagnostic related technologists and technicians: YRFT: 155,210, Female: 103,770, Male: 51,430
+	Dietitians and nutritionists: YRFT: 45,910, Female: 40,710, Male: 5,200
+	Dining room and cafeteria attendants and bartender helpers: YRFT: 53,100, Female: 20,490, Male: 32,610
+	Directors, religious activities and education: YRFT: 28,730, Female: 15,380, Male: 13,350
+	Dishwashers: YRFT: 59,420, Female: 11,730, Male: 47,680
+	Dispatchers: YRFT: 186,580, Female: 94,240, Male: 92,340
+	Door-to-door sales workers, news and street vendors, and related workers: YRFT: 56,450, Female: 22,310, Male: 34,140
+	Drafters: YRFT: 165,090, Female: 29,150, Male: 135,930
+	Dredge, excavating, and loading machine operators: YRFT: 38,970, Female: 610, Male: 38,360
+	Drilling and boring machine tool setters, operators, and tenders, metal and plastic: YRFT: 7,400, Female: 1,530, Male: 5,880
+	Driver/sales workers and truck drivers: YRFT: 2,130,980, Female: 89,580, Male: 2,041,390
+	Drywall installers, ceiling tile installers, and tapers: YRFT: 98,850, Female: 2,160, Male: 96,690
+	Earth drillers, except oil and gas: YRFT: 19,160, Female: 220, Male: 18,940
+	Economists: YRFT: 21,830, Female: 5,960, Male: 15,870
+	Editors: YRFT: 120,880, Female: 61,320, Male: 59,560
+	Education administrators: YRFT: 473,910, Female: 274,130, Male: 199,780
+	Electric motor, power tool, and related repairers: YRFT: 28,050, Female: 1,150, Male: 26,900
+	Electrical and electronics engineers: YRFT: 266,820, Female: 20,950, Male: 245,880
+	Electrical and electronics installers and repairers, transportation equipment: YRFT: 3,030, Female: 160, Male: 2,870
+	Electrical and electronics repairers, industrial and utility: YRFT: 11,470, Female: 690, Male: 10,780
+	Electrical power-line installers and repairers: YRFT: 87,740, Female: 1,800, Male: 85,950
+	Electrical, electronics, and electromechanical assemblers: YRFT: 182,350, Female: 108,700, Male: 73,650
+	Electricians: YRFT: 533,790, Female: 11,600, Male: 522,180
+	Electronic equipment installers and repairers, motor vehicles: YRFT: 21,140, Female: 930, Male: 20,210
+	Electronic home entertainment equipment installers and repairers: YRFT: 30,280, Female: 1,230, Male: 29,060
+	Elementary and middle school teachers: YRFT: 2,143,750, Female: 1,651,840, Male: 491,910
+	Elevator installers and repairers: YRFT: 22,220, Female: 230, Male: 21,980
+	Eligibility interviewers, government programs: YRFT: 51,580, Female: 41,540, Male: 10,040
+	Emergency medical technicians and paramedics: YRFT: 83,330, Female: 22,930, Male: 60,400
+	Engine and other machine assemblers: YRFT: 21,690, Female: 4,490, Male: 17,190
+	Engineering managers: YRFT: 145,250, Female: 9,170, Male: 136,080
+	Engineering technicians, except drafters: YRFT: 352,690, Female: 59,400, Male: 293,290
+	Engineers, all other: YRFT: 262,630, Female: 24,880, Male: 237,740
+	Entertainers and performers, sports and related workers, all other: YRFT: 11,490, Female: 4,540, Male: 6,950
+	Environmental engineers: YRFT: 29,370, Female: 5,670, Male: 23,700
+	Environmental scientists and geoscientists: YRFT: 67,050, Female: 14,160, Male: 52,890
+	Etchers and engravers: YRFT: 9,750, Female: 3,380, Male: 6,370
+	Explosives workers, ordnance handling experts, and blasters: YRFT: 6,830, Female: 560, Male: 6,270
+	Extruding and drawing machine setters, operators, and tenders, metal and plastic: YRFT: 13,810, Female: 2,120, Male: 11,690
+	Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers: YRFT: 1,090, Female: 290, Male: 800
+	Extruding, forming, pressing, and compacting machine setters, operators, and  tenders: YRFT: 32,790, Female: 7,030, Male: 25,770
+	Fabric and apparel patternmakers: YRFT: 3,720, Female: 2,780, Male: 940
+	Farm, ranch, and other agricultural managers: YRFT: 140,950, Female: 15,460, Male: 125,490
+	Farmers and ranchers: YRFT: 362,670, Female: 38,360, Male: 324,300
+	Fence erectors: YRFT: 14,700, Female: 240, Male: 14,460
+	File clerks: YRFT: 139,060, Female: 110,260, Male: 28,800
+	Financial analysts: YRFT: 43,680, Female: 13,750, Male: 29,930
+	Financial examiners: YRFT: 10,240, Female: 4,150, Male: 6,090
+	Financial managers: YRFT: 801,160, Female: 412,080, Male: 389,080
+	Financial specialists, all other: YRFT: 34,580, Female: 19,610, Male: 14,970
+	Fire fighters: YRFT: 208,870, Female: 6,490, Male: 202,380
+	Fire inspectors: YRFT: 16,000, Female: 1,310, Male: 14,700
+	First-line supervisors/managers of construction trades and extraction workers: YRFT: 720,740, Female: 17,110, Male: 703,630
+	First-line supervisors/managers of correctional officers: YRFT: 41,090, Female: 9,810, Male: 31,280
+	First-line supervisors/managers of farming, fishing, and forestry workers: YRFT: 37,010, Female: 4,940, Male: 32,070
+	First-line supervisors/managers of fire fighting and prevention workers: YRFT: 41,910, Female: 1,220, Male: 40,690
+	First-line supervisors/managers of food preparation and serving workers: YRFT: 308,910, Female: 162,750, Male: 146,150
+	First-line supervisors/managers of gaming workers: YRFT: 40,560, Female: 15,300, Male: 25,260
+	First-line supervisors/managers of housekeeping and janitorial workers: YRFT: 132,380, Female: 48,380, Male: 84,000
+	First-line supervisors/managers of landscaping, lawn service, and groundskeeping workers: YRFT: 94,220, Female: 5,360, Male: 88,860
+	First-line supervisors/managers of mechanics, installers, and repairers: YRFT: 329,430, Female: 25,050, Male: 304,390
+	First-line supervisors/managers of non-retail sales workers: YRFT: 768,420, Female: 234,100, Male: 534,320
+	First-line supervisors/managers of office and administrative support workers: YRFT: 1,335,860, Female: 882,160, Male: 453,700
+	First-line supervisors/managers of personal service workers: YRFT: 76,750, Female: 41,980, Male: 34,780
+	First-line supervisors/managers of police and detectives: YRFT: 95,320, Female: 11,840, Male: 83,480
+	First-line supervisors/managers of production and operating workers: YRFT: 1,094,900, Female: 211,580, Male: 883,320
+	First-line supervisors/managers of retail sales workers: YRFT: 2,167,180, Female: 821,670, Male: 1,345,510
+	Fish and game wardens: YRFT: 2,930, Female: 220, Male: 2,710
+	Fishers and related fishing workers: YRFT: 18,970, Female: 680, Male: 18,300
+	Food and tobacco roasting, baking, and drying machine operators and tenders: YRFT: 5,850, Female: 1,480, Male: 4,370
+	Food batchmakers: YRFT: 43,690, Female: 21,600, Male: 22,090
+	Food cooking machine operators and tenders: YRFT: 4,140, Female: 1,480, Male: 2,670
+	Food preparation and serving related workers, all other: YRFT: 1,870, Female: 990, Male: 880
+	Food preparation workers: YRFT: 135,840, Female: 76,360, Male: 59,480
+	Food servers, nonrestaurant: YRFT: 50,870, Female: 33,970, Male: 16,900
+	Food service managers: YRFT: 486,600, Female: 196,830, Male: 289,770
+	Forest and conservation workers: YRFT: 8,710, Female: 990, Male: 7,720
+	Forging machine setters, operators, and tenders, metal and plastic: YRFT: 10,760, Female: 630, Male: 10,130
+	Funeral directors: YRFT: 36,810, Female: 5,500, Male: 31,310
+	Funeral service workers: YRFT: 5,970, Female: 1,330, Male: 4,640
+	Furnace, kiln, oven, drier, and kettle operators and tenders: YRFT: 16,570, Female: 4,850, Male: 11,720
+	Furniture finishers: YRFT: 17,960, Female: 3,560, Male: 14,400
+	Gaming cage workers: YRFT: 4,840, Female: 3,610, Male: 1,230
+	Gaming managers: YRFT: 20,290, Female: 7,050, Male: 13,240
+	Gaming services workers: YRFT: 52,620, Female: 25,310, Male: 27,310
+	General and operations managers: YRFT: 790,670, Female: 195,630, Male: 595,040
+	Geological and petroleum technicians: YRFT: 9,450, Female: 2,090, Male: 7,350
+	Glaziers: YRFT: 34,250, Female: 1,290, Male: 32,970
+	Graders and sorters, agricultural products: YRFT: 11,780, Female: 6,240, Male: 5,540
+	Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic: YRFT: 59,210, Female: 7,080, Male: 52,130
+	Grounds maintenance workers: YRFT: 437,270, Female: 25,180, Male: 412,090
+	Hairdressers, hairstylists, and cosmetologists: YRFT: 305,440, Female: 264,960, Male: 40,490
+	Hazardous materials removal workers: YRFT: 12,060, Female: 1,200, Male: 10,860
+	Health diagnosing and treating practitioner support technicians: YRFT: 168,700, Female: 133,670, Male: 35,020
+	Health diagnosing and treating practitioners, all other: YRFT: 4,560, Female: 2,390, Male: 2,180
+	Heat treating equipment setters, operators, and tenders, metal and plastic: YRFT: 9,590, Female: 770, Male: 8,820
+	Heating, air conditioning, and refrigeration mechanics and installers: YRFT: 232,880, Female: 3,490, Male: 229,390
+	Heavy vehicle and mobile equipment service technicians and mechanics: YRFT: 143,610, Female: 1,070, Male: 142,540
+	Helpers, construction trades: YRFT: 28,780, Female: 1,230, Male: 27,560
+	Helpers, extraction workers: YRFT: 1,850, Female: 50, Male: 1,800
+	Helpers, installation, maintenance, and repair workers: YRFT: 8,080, Female: 860, Male: 7,220
+	Helpers, production workers: YRFT: 23,460, Female: 4,800, Male: 18,660
+	Highway maintenance workers: YRFT: 70,700, Female: 2,570, Male: 68,130
+	Hoist and winch operators: YRFT: 5,830, Female: 310, Male: 5,520
+	Home appliance repairers: YRFT: 37,920, Female: 950, Male: 36,980
+	Hosts and hostesses, restaurant, lounge, and coffee shop: YRFT: 26,850, Female: 22,210, Male: 4,640
+	Hotel, motel, and resort desk clerks: YRFT: 48,630, Female: 31,990, Male: 16,640
+	Human resources assistants, except payroll and timekeeping: YRFT: 36,910, Female: 30,200, Male: 6,710
+	Human resources managers: YRFT: 358,390, Female: 195,780, Male: 162,610
+	Human resources, training, and labor relations specialists: YRFT: 660,750, Female: 433,060, Male: 227,690
+	Hunters and trappers: YRFT: 710, Female: 80, Male: 630
+	Industrial and refractory machinery mechanics: YRFT: 396,870, Female: 13,160, Male: 383,710
+	Industrial engineers, including health and safety: YRFT: 162,390, Female: 25,150, Male: 137,240
+	Industrial production managers: YRFT: 269,260, Female: 41,490, Male: 227,780
+	Industrial truck and tractor operators: YRFT: 350,490, Female: 28,330, Male: 322,160
+	Information and record clerks, all other: YRFT: 42,680, Female: 35,100, Male: 7,580
+	Inspectors, testers, sorters, samplers, and weighers: YRFT: 637,750, Female: 267,130, Male: 370,620
+	Insulation workers: YRFT: 25,320, Female: 900, Male: 24,420
+	Insurance claims and policy processing clerks: YRFT: 158,080, Female: 135,100, Male: 22,980
+	Insurance sales agents: YRFT: 385,520, Female: 154,580, Male: 230,940
+	Insurance underwriters: YRFT: 69,980, Female: 47,480, Male: 22,500
+	Interviewers, except eligibility and loan: YRFT: 65,510, Female: 50,970, Male: 14,550
+	Janitors and building cleaners: YRFT: 983,990, Female: 216,900, Male: 767,090
+	Jewelers and precious stone and metal workers: YRFT: 29,040, Female: 7,610, Male: 21,430
+	Job printers: YRFT: 64,210, Female: 12,330, Male: 51,880
+	Judges, magistrates, and other judicial workers: YRFT: 46,590, Female: 16,700, Male: 29,890
+	Laborers and freight, stock, and material movers, hand: YRFT: 952,880, Female: 161,830, Male: 791,050
+	Lathe and turning machine tool setters, operators, and tenders, metal and plastic: YRFT: 14,630, Female: 1,670, Male: 12,970
+	Laundry and dry-cleaning workers: YRFT: 108,230, Female: 59,690, Male: 48,540
+	Lawyers: YRFT: 702,480, Female: 180,560, Male: 521,920
+	Lay-out workers, metal and plastic: YRFT: 7,710, Female: 800, Male: 6,910
+	Legislators: YRFT: 9,320, Female: 3,470, Male: 5,860
+	Librarians: YRFT: 98,200, Female: 77,880, Male: 20,320
+	Library assistants, clerical: YRFT: 42,450, Female: 35,600, Male: 6,850
+	Library technicians: YRFT: 12,280, Female: 9,550, Male: 2,730
+	Licensed practical and licensed vocational nurses: YRFT: 353,090, Female: 325,090, Male: 28,000
+	Lifeguards and other protective service workers: YRFT: 12,710, Female: 5,960, Male: 6,750
+	Loan counselors and officers: YRFT: 259,750, Female: 139,440, Male: 120,310
+	Loan interviewers and clerks: YRFT: 88,740, Female: 74,830, Male: 13,920
+	Locksmiths and safe repairers: YRFT: 21,830, Female: 1,330, Male: 20,510
+	Locomotive engineers and operators: YRFT: 41,940, Female: 1,580, Male: 40,350
+	Lodging managers: YRFT: 93,420, Female: 42,820, Male: 50,600
+	Logging workers: YRFT: 52,930, Female: 1,390, Male: 51,540
+	Logisticians: YRFT: 31,710, Female: 10,870, Male: 20,840
+	Machine feeders and offbearers: YRFT: 31,690, Female: 11,520, Male: 20,170
+	Machinists: YRFT: 396,110, Female: 18,390, Male: 377,730
+	Maids and housekeeping cleaners: YRFT: 437,190, Female: 365,710, Male: 71,480
+	Mail clerks and mail machine operators, except postal service: YRFT: 82,410, Female: 40,500, Male: 41,910
+	Maintenance and repair workers, general: YRFT: 324,050, Female: 11,700, Male: 312,340
+	Maintenance workers, machinery: YRFT: 18,520, Female: 790, Male: 17,730
+	Management analysts: YRFT: 383,920, Female: 140,710, Male: 243,210
+	Managers, all other: YRFT: 1,607,220, Female: 521,170, Male: 1,086,050
+	Manufactured building and mobile home installers: YRFT: 13,820, Female: 510, Male: 13,300
+	Marine engineers and naval architects: YRFT: 8,690, Female: 410, Male: 8,280
+	Market and survey researchers: YRFT: 61,540, Female: 29,170, Male: 32,370
+	Marketing and sales managers: YRFT: 861,770, Female: 337,840, Male: 523,930
+	Massage therapists: YRFT: 20,940, Female: 15,710, Male: 5,230
+	Material moving workers, all other: YRFT: 39,430, Female: 6,020, Male: 33,400
+	Materials engineers: YRFT: 32,650, Female: 3,600, Male: 29,050
+	Mathematicians: YRFT: 2,300, Female: 400, Male: 1,910
+	Mechanical engineers: YRFT: 236,200, Female: 13,920, Male: 222,290
+	Media and communication equipment workers, all other: YRFT: 500, Female: 70, Male: 430
+	Medical and health services managers: YRFT: 329,140, Female: 220,870, Male: 108,270
+	Medical assistants and other healthcare support occupations: YRFT: 307,590, Female: 271,460, Male: 36,140
+	Medical records and health information technicians: YRFT: 59,770, Female: 54,400, Male: 5,370
+	Medical scientists: YRFT: 61,830, Female: 26,850, Male: 34,990
+	Medical, dental, and ophthalmic laboratory technicians: YRFT: 63,030, Female: 26,770, Male: 36,260
+	Meeting and convention planners: YRFT: 22,620, Female: 17,310, Male: 5,310
+	Metal furnace and kiln operators and tenders: YRFT: 27,570, Female: 1,910, Male: 25,660
+	Metalworkers and plastic workers, all other: YRFT: 430,940, Female: 115,570, Male: 315,380
+	Meter readers, utilities: YRFT: 32,750, Female: 5,210, Male: 27,540
+	Milling and planing machine setters, operators, and tenders, metal and plastic: YRFT: 2,460, Female: 410, Male: 2,050
+	Millwrights: YRFT: 58,110, Female: 1,160, Male: 56,950
+	Mining and geological engineers, including mining safety engineers: YRFT: 5,550, Female: 320, Male: 5,230
+	Mining machine operators: YRFT: 34,210, Female: 840, Male: 33,370
+	Miscellaneous agricultural workers: YRFT: 283,100, Female: 44,450, Male: 238,660
+	Miscellaneous assemblers and fabricators: YRFT: 795,820, Female: 326,300, Male: 469,510
+	Miscellaneous community and social service specialists: YRFT: 181,610, Female: 108,530, Male: 73,090
+	Miscellaneous construction and related workers: YRFT: 19,090, Female: 610, Male: 18,490
+	Miscellaneous entertainment attendants and related workers: YRFT: 30,900, Female: 11,840, Male: 19,060
+	Miscellaneous health technologists and technicians: YRFT: 53,790, Female: 31,550, Male: 22,240
+	Miscellaneous legal support workers: YRFT: 141,720, Female: 104,500, Male: 37,220
+	Miscellaneous mathematical science occupations: YRFT: 2,500, Female: 970, Male: 1,530
+	Miscellaneous media and communication workers: YRFT: 24,080, Female: 14,020, Male: 10,070
+	Miscellaneous personal appearance workers: YRFT: 55,350, Female: 48,050, Male: 7,300
+	Miscellaneous plant and system operators: YRFT: 35,340, Female: 2,390, Male: 32,960
+	Miscellaneous social scientists and related workers: YRFT: 21,140, Female: 9,240, Male: 11,900
+	Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers: YRFT: 40,310, Female: 580, Male: 39,730
+	Model makers and patternmakers, metal and plastic: YRFT: 12,060, Female: 1,480, Male: 10,590
+	Model makers and patternmakers, wood: YRFT: 940, Female: 120, Male: 820
+	Models, demonstrators, and product promoters: YRFT: 11,870, Female: 6,860, Male: 5,010
+	Molders and molding machine setters, operators, and tenders, metal and plastic: YRFT: 70,860, Female: 14,050, Male: 56,810
+	Molders, shapers, and casters, except metal and plastic: YRFT: 23,240, Female: 3,450, Male: 19,790
+	Motion picture projectionists: YRFT: 3,100, Female: 480, Male: 2,620
+	Motor vehicle operators, all other: YRFT: 7,010, Female: 750, Male: 6,260
+	Multiple machine tool setters, operators, and tenders, metal and plastic: YRFT: 6,080, Female: 1,610, Male: 4,470
+	Musicians, singers, and related workers: YRFT: 50,450, Female: 12,340, Male: 38,110
+	Natural sciences managers: YRFT: 16,490, Female: 4,990, Male: 11,500
+	Network and computer systems administrators: YRFT: 160,910, Female: 37,240, Male: 123,670
+	Network systems and data communications analysts: YRFT: 232,940, Female: 56,970, Male: 175,980
+	New accounts clerks: YRFT: 11,630, Female: 10,020, Male: 1,620
+	News analysts, reporters and correspondents: YRFT: 59,860, Female: 25,340, Male: 34,530
+	Nonfarm animal caretakers: YRFT: 50,410, Female: 32,130, Male: 18,280
+	Nuclear engineers: YRFT: 7,410, Female: 580, Male: 6,830
+	Nuclear technicians: YRFT: 3,100, Female: 500, Male: 2,610
+	Nursing, psychiatric, and home health aides: YRFT: 853,210, Female: 730,750, Male: 122,460
+	Occupational therapist assistants and aides: YRFT: 4,980, Female: 4,100, Male: 880
+	Occupational therapists: YRFT: 31,080, Female: 26,660, Male: 4,420
+	Office and administrative support workers, all other: YRFT: 339,300, Female: 244,900, Male: 94,400
+	Office clerks, general: YRFT: 736,160, Female: 625,950, Male: 110,210
+	Office machine operators, except computer: YRFT: 32,890, Female: 18,540, Male: 14,350
+	Operating engineers and other construction equipment operators: YRFT: 224,000, Female: 3,790, Male: 220,220
+	Operations research analysts: YRFT: 83,750, Female: 38,400, Male: 45,360
+	Opticians, dispensing: YRFT: 33,860, Female: 20,570, Male: 13,290
+	Optometrists: YRFT: 21,440, Female: 4,420, Male: 17,020
+	Order clerks: YRFT: 96,170, Female: 59,850, Male: 36,310
+	Other business operations specialists: YRFT: 169,810, Female: 94,100, Male: 75,710
+	Other education, training, and library workers: YRFT: 32,460, Female: 19,510, Male: 12,940
+	Other extraction workers: YRFT: 12,670, Female: 450, Male: 12,220
+	Other healthcare practitioners and technical occupations: YRFT: 48,290, Female: 15,280, Male: 33,000
+	Other installation, maintenance, and repair workers: YRFT: 166,740, Female: 10,280, Male: 156,460
+	Other life, physical, and social science technicians: YRFT: 76,220, Female: 32,540, Male: 43,680
+	Other teachers and instructors: YRFT: 220,110, Female: 123,610, Male: 96,510
+	Other transportation workers: YRFT: 10,390, Female: 1,350, Male: 9,040
+	Packaging and filling machine operators and tenders: YRFT: 162,710, Female: 91,990, Male: 70,720
+	Packers and packagers, hand: YRFT: 177,890, Female: 107,980, Male: 69,910
+	Painters, construction and maintenance: YRFT: 269,460, Female: 14,110, Male: 255,350
+	Painting workers: YRFT: 122,820, Female: 17,420, Male: 105,390
+	Paper goods machine setters, operators, and tenders: YRFT: 32,700, Female: 6,930, Male: 25,770
+	Paperhangers: YRFT: 8,300, Female: 1,670, Male: 6,630
+	Paralegals and legal assistants: YRFT: 202,450, Female: 177,430, Male: 25,020
+	Parking enforcement workers: YRFT: 3,230, Female: 1,420, Male: 1,800
+	Parking lot attendants: YRFT: 22,540, Female: 2,900, Male: 19,640
+	Parts salespersons: YRFT: 97,580, Female: 9,060, Male: 88,520
+	Paving, surfacing, and tamping equipment operators: YRFT: 7,230, Female: 270, Male: 6,960
+	Payroll and timekeeping clerks: YRFT: 148,710, Female: 133,900, Male: 14,810
+	Personal and home care aides: YRFT: 108,720, Female: 91,680, Male: 17,040
+	Personal care and service workers, all other: YRFT: 14,500, Female: 4,780, Male: 9,710
+	Personal financial advisors: YRFT: 188,690, Female: 56,200, Male: 132,490
+	Pest control workers: YRFT: 45,570, Female: 2,420, Male: 43,150
+	Petroleum engineers: YRFT: 12,520, Female: 730, Male: 11,790
+	Pharmacists: YRFT: 147,290, Female: 57,610, Male: 89,680
+	Photographers: YRFT: 63,320, Female: 17,400, Male: 45,920
+	Photographic process workers and processing machine operators: YRFT: 45,620, Female: 23,140, Male: 22,480
+	Physical scientists, all other: YRFT: 108,340, Female: 34,110, Male: 74,230
+	Physical therapist assistants and aides: YRFT: 26,580, Female: 19,130, Male: 7,440
+	Physical therapists: YRFT: 79,440, Female: 49,390, Male: 30,050
+	Physician assistants: YRFT: 37,660, Female: 21,950, Male: 15,710
+	Physicians and surgeons: YRFT: 515,500, Female: 122,230, Male: 393,270
+	Pile-driver operators: YRFT: 1,110, Female: 10, Male: 1,100
+	Pipelayers, plumbers, pipefitters, and steamfitters: YRFT: 380,780, Female: 5,650, Male: 375,130
+	Plasterers and stucco masons: YRFT: 22,200, Female: 270, Male: 21,930
+	Plating and coating machine setters, operators, and tenders, metal and plastic: YRFT: 18,010, Female: 2,230, Male: 15,780
+	Podiatrists: YRFT: 7,770, Female: 970, Male: 6,810
+	Police and sheriff's patrol officers: YRFT: 519,840, Female: 63,710, Male: 456,130
+	Postal service clerks: YRFT: 127,010, Female: 62,530, Male: 64,480
+	Postal service mail carriers: YRFT: 282,690, Female: 80,570, Male: 202,120
+	Postal service mail sorters, processors, and processing machine operators: YRFT: 97,120, Female: 43,940, Male: 53,180
+	Postmasters and mail superintendents: YRFT: 30,590, Female: 14,610, Male: 15,980
+	Postsecondary teachers: YRFT: 534,100, Female: 206,640, Male: 327,460
+	Power plant operators, distributors, and dispatchers: YRFT: 37,660, Female: 2,750, Male: 34,910
+	Precision instrument and equipment repairers: YRFT: 53,610, Female: 5,480, Male: 48,130
+	Prepress technicians and workers: YRFT: 53,230, Female: 22,660, Male: 30,570
+	Preschool and kindergarten teachers: YRFT: 224,730, Female: 219,000, Male: 5,720
+	Pressers, textile, garment, and related materials: YRFT: 44,870, Female: 27,030, Male: 17,840
+	Printing machine operators: YRFT: 155,980, Female: 23,150, Male: 132,820
+	Private detectives and investigators: YRFT: 46,670, Female: 16,320, Male: 30,350
+	Procurement clerks: YRFT: 30,660, Female: 19,030, Male: 11,630
+	Producers and directors: YRFT: 92,750, Female: 32,450, Male: 60,300
+	Production workers, all other: YRFT: 889,550, Female: 273,750, Male: 615,790
+	Production, planning, and expediting clerks: YRFT: 258,500, Female: 130,680, Male: 127,830
+	Proofreaders and copy markers: YRFT: 10,870, Female: 7,750, Male: 3,120
+	Property, real estate, and community association managers: YRFT: 300,490, Female: 148,040, Male: 152,450
+	Psychologists: YRFT: 87,120, Female: 46,680, Male: 40,440
+	Public relations managers: YRFT: 53,940, Female: 29,480, Male: 24,450
+	Public relations specialists: YRFT: 95,700, Female: 56,410, Male: 39,290
+	Pumping station operators: YRFT: 14,830, Female: 540, Male: 14,300
+	Purchasing agents and buyers, farm products: YRFT: 9,740, Female: 1,860, Male: 7,880
+	Purchasing agents, except wholesale, retail, and farm products: YRFT: 218,260, Female: 113,550, Male: 104,710
+	Purchasing managers: YRFT: 171,020, Female: 66,120, Male: 104,910
+	Radiation therapists: YRFT: 8,090, Female: 5,410, Male: 2,680
+	Radio and telecommunications equipment installers and repairers: YRFT: 185,460, Female: 24,010, Male: 161,450
+	Rail-track laying and maintenance equipment operators: YRFT: 8,330, Female: 90, Male: 8,240
+	Railroad brake, signal, and switch operators: YRFT: 7,840, Female: 210, Male: 7,630
+	Railroad conductors and yardmasters: YRFT: 39,090, Female: 1,990, Male: 37,100
+	Real estate brokers and sales agents: YRFT: 418,850, Female: 206,220, Male: 212,630
+	Receptionists and information clerks: YRFT: 476,580, Female: 446,440, Male: 30,140
+	Recreation and fitness workers: YRFT: 106,550, Female: 61,770, Male: 44,780
+	Recreational therapists: YRFT: 11,210, Female: 8,090, Male: 3,120
+	Refuse and recyclable material collectors: YRFT: 50,590, Female: 3,510, Male: 47,080
+	Registered nurses: YRFT: 1,384,630, Female: 1,254,900, Male: 129,740
+	Reinforcing iron and rebar workers: YRFT: 3,530, Female: 90, Male: 3,430
+	Religious workers, all other: YRFT: 37,230, Female: 19,400, Male: 17,830
+	Reservation and transportation ticket agents and travel clerks: YRFT: 113,600, Female: 70,730, Male: 42,870
+	Residential advisors: YRFT: 22,640, Female: 15,210, Male: 7,440
+	Respiratory therapists: YRFT: 60,810, Female: 34,300, Male: 26,510
+	Retail salespersons: YRFT: 1,536,280, Female: 602,440, Male: 933,840
+	Riggers: YRFT: 5,920, Female: 90, Male: 5,830
+	Rolling machine setters, operators, and tenders, metal and plastic: YRFT: 12,000, Female: 3,100, Male: 8,900
+	Roof bolters, mining: YRFT: 2,190, Female: 10, Male: 2,180
+	Roofers: YRFT: 98,760, Female: 1,680, Male: 97,080
+	Roustabouts, oil and gas: YRFT: 970, Female: 10, Male: 960
+	Sailors and marine oilers: YRFT: 9,650, Female: 500, Male: 9,150
+	Sales and related workers, all other: YRFT: 132,230, Female: 61,240, Male: 70,990
+	Sales engineers: YRFT: 29,540, Female: 1,620, Male: 27,920
+	Sales representatives, services, all other: YRFT: 433,010, Female: 134,640, Male: 298,380
+	Sales representatives, wholesale and manufacturing: YRFT: 1,109,620, Female: 248,500, Male: 861,120
+	Sawing machine setters, operators, and tenders, wood: YRFT: 42,720, Female: 5,400, Male: 37,320
+	Secondary school teachers: YRFT: 563,090, Female: 313,960, Male: 249,130
+	Secretaries and administrative assistants: YRFT: 2,409,830, Female: 2,330,670, Male: 79,160
+	Securities, commodities, and financial services sales agents: YRFT: 290,550, Female: 89,630, Male: 200,920
+	Security and fire alarm systems installers: YRFT: 34,660, Female: 960, Male: 33,700
+	Security guards and gaming surveillance officers: YRFT: 420,650, Female: 79,690, Male: 340,960
+	Semiconductor processors: YRFT: 4,920, Female: 2,110, Male: 2,810
+	Septic tank servicers and sewer pipe cleaners: YRFT: 5,740, Female: 140, Male: 5,600
+	Service station attendants: YRFT: 46,300, Female: 9,710, Male: 36,590
+	Sewing machine operators: YRFT: 250,690, Female: 193,360, Male: 57,330
+	Sheet metal workers: YRFT: 114,110, Female: 4,420, Male: 109,690
+	Ship and boat captains and operators: YRFT: 17,650, Female: 500, Male: 17,150
+	Ship engineers: YRFT: 3,380, Female: 70, Male: 3,310
+	Shipping, receiving, and traffic clerks: YRFT: 439,060, Female: 126,590, Male: 312,470
+	Shoe and leather workers and repairers: YRFT: 10,900, Female: 2,560, Male: 8,340
+	Shoe machine operators and tenders: YRFT: 5,990, Female: 3,550, Male: 2,440
+Query: range occupation "Industrial" "Heavy"
+
+The occupations in the range "Industrial" to "Heavy":
+Query: range occupation "Radio" "Telecommunications"
+
+The occupations in the range "Radio" to "Telecommunications":
+	Radio and telecommunications equipment installers and repairers: YRFT: 185,460, Female: 24,010, Male: 161,450
+	Rail-track laying and maintenance equipment operators: YRFT: 8,330, Female: 90, Male: 8,240
+	Railroad brake, signal, and switch operators: YRFT: 7,840, Female: 210, Male: 7,630
+	Railroad conductors and yardmasters: YRFT: 39,090, Female: 1,990, Male: 37,100
+	Real estate brokers and sales agents: YRFT: 418,850, Female: 206,220, Male: 212,630
+	Receptionists and information clerks: YRFT: 476,580, Female: 446,440, Male: 30,140
+	Recreation and fitness workers: YRFT: 106,550, Female: 61,770, Male: 44,780
+	Recreational therapists: YRFT: 11,210, Female: 8,090, Male: 3,120
+	Refuse and recyclable material collectors: YRFT: 50,590, Female: 3,510, Male: 47,080
+	Registered nurses: YRFT: 1,384,630, Female: 1,254,900, Male: 129,740
+	Reinforcing iron and rebar workers: YRFT: 3,530, Female: 90, Male: 3,430
+	Religious workers, all other: YRFT: 37,230, Female: 19,400, Male: 17,830
+	Reservation and transportation ticket agents and travel clerks: YRFT: 113,600, Female: 70,730, Male: 42,870
+	Residential advisors: YRFT: 22,640, Female: 15,210, Male: 7,440
+	Respiratory therapists: YRFT: 60,810, Female: 34,300, Male: 26,510
+	Retail salespersons: YRFT: 1,536,280, Female: 602,440, Male: 933,840
+	Riggers: YRFT: 5,920, Female: 90, Male: 5,830
+	Rolling machine setters, operators, and tenders, metal and plastic: YRFT: 12,000, Female: 3,100, Male: 8,900
+	Roof bolters, mining: YRFT: 2,190, Female: 10, Male: 2,180
+	Roofers: YRFT: 98,760, Female: 1,680, Male: 97,080
+	Roustabouts, oil and gas: YRFT: 970, Female: 10, Male: 960
+	Sailors and marine oilers: YRFT: 9,650, Female: 500, Male: 9,150
+	Sales and related workers, all other: YRFT: 132,230, Female: 61,240, Male: 70,990
+	Sales engineers: YRFT: 29,540, Female: 1,620, Male: 27,920
+	Sales representatives, services, all other: YRFT: 433,010, Female: 134,640, Male: 298,380
+	Sales representatives, wholesale and manufacturing: YRFT: 1,109,620, Female: 248,500, Male: 861,120
+	Sawing machine setters, operators, and tenders, wood: YRFT: 42,720, Female: 5,400, Male: 37,320
+	Secondary school teachers: YRFT: 563,090, Female: 313,960, Male: 249,130
+	Secretaries and administrative assistants: YRFT: 2,409,830, Female: 2,330,670, Male: 79,160
+	Securities, commodities, and financial services sales agents: YRFT: 290,550, Female: 89,630, Male: 200,920
+	Security and fire alarm systems installers: YRFT: 34,660, Female: 960, Male: 33,700
+	Security guards and gaming surveillance officers: YRFT: 420,650, Female: 79,690, Male: 340,960
+	Semiconductor processors: YRFT: 4,920, Female: 2,110, Male: 2,810
+	Septic tank servicers and sewer pipe cleaners: YRFT: 5,740, Female: 140, Male: 5,600
+	Service station attendants: YRFT: 46,300, Female: 9,710, Male: 36,590
+	Sewing machine operators: YRFT: 250,690, Female: 193,360, Male: 57,330
+	Sheet metal workers: YRFT: 114,110, Female: 4,420, Male: 109,690
+	Ship and boat captains and operators: YRFT: 17,650, Female: 500, Male: 17,150
+	Ship engineers: YRFT: 3,380, Female: 70, Male: 3,310
+	Shipping, receiving, and traffic clerks: YRFT: 439,060, Female: 126,590, Male: 312,470
+	Shoe and leather workers and repairers: YRFT: 10,900, Female: 2,560, Male: 8,340
+	Shoe machine operators and tenders: YRFT: 5,990, Female: 3,550, Male: 2,440
+	Shuttle car operators: YRFT: 1,470, Female: 150, Male: 1,320
+	Signal and track switch repairers: YRFT: 4,750, Female: 20, Male: 4,730
+	Small engine mechanics: YRFT: 32,450, Female: 550, Male: 31,900
+	Social and community service managers: YRFT: 179,920, Female: 112,730, Male: 67,190
+	Social workers: YRFT: 455,920, Female: 349,960, Male: 105,960
+	Sociologists: YRFT: 1,950, Female: 1,020, Male: 930
+	Special education teachers: YRFT: 121,790, Female: 103,750, Male: 18,050
+	Speech-language pathologists: YRFT: 35,680, Female: 33,390, Male: 2,280
+	Stationary engineers and boiler operators: YRFT: 82,740, Female: 2,360, Male: 80,380
+	Statistical assistants: YRFT: 22,620, Female: 14,900, Male: 7,720
+	Statisticians: YRFT: 17,670, Female: 7,900, Male: 9,770
+	Stock clerks and order fillers: YRFT: 605,170, Female: 221,930, Male: 383,230
+	Structural iron and steel workers: YRFT: 46,800, Female: 990, Male: 45,810
+	Structural metal fabricators and fitters: YRFT: 22,600, Female: 980, Male: 21,620
+	Subway, streetcar, and other rail transportation workers: YRFT: 7,970, Female: 700, Male: 7,270
+	Supervisors, protective service workers, all other: YRFT: 71,040, Female: 16,190, Male: 54,840
+	Supervisors, transportation and material moving workers: YRFT: 193,010, Female: 33,540, Male: 159,470
+	Surveying and mapping technicians: YRFT: 58,590, Female: 3,900, Male: 54,690
+	Surveyors, cartographers, and photogrammetrists: YRFT: 27,510, Female: 4,520, Male: 22,990
+	Switchboard operators, including answering service: YRFT: 41,040, Female: 36,030, Male: 5,010
+	Tailors, dressmakers, and sewers: YRFT: 52,600, Female: 37,060, Male: 15,550
+	Tank car, truck, and ship loaders: YRFT: 3,610, Female: 170, Male: 3,440
+	Tax examiners, collectors, and revenue agents: YRFT: 55,600, Female: 32,810, Male: 22,790
+	Tax preparers: YRFT: 36,500, Female: 20,080, Male: 16,430
+	Taxi drivers and chauffeurs: YRFT: 112,180, Female: 12,180, Male: 99,990
+	Teacher assistants: YRFT: 175,770, Female: 157,100, Male: 18,670
+	Technical writers: YRFT: 51,710, Female: 26,560, Male: 25,150

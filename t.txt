@@ -1,0 +1,16 @@
+15
+find ratio 1960 1969
+find max total 10
+find max male 10
+find max female 10
+find ratio 2000 2009
+find occupation 11-3031
+find occupation 13-1199
+find occupation 15-1099
+find occupation 25-9099
+find occupation 31-9093
+find occupation 51-3011
+range occupation "Avionics" "Drywall"
+range occupation "Crane" "Shuttle"
+range occupation "Industrial" "Heavy"
+range occupation "Radio" "Telecommunications"
